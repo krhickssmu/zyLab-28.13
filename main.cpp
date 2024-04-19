@@ -2,7 +2,7 @@
 using namespace std;
 
 //update from user1
-//updated from ruth
+//updated from ruth 1
 int main(){
 
 
