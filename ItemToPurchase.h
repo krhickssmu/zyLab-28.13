@@ -4,13 +4,29 @@
 #include <string>
 using namespace std;
 
-//update from Ruth on VS code
-//Updated now
-//Third update
-class ItemtoPurchase{
+class ItemToPurchase{
+    private:
 
+    //data members
+    string itemName;
+    int itemPrice;
+    int itemQuantity;
 
+    public:
 
-};
+    //constructor
+    ItemToPurchase();
+
+    //mutators
+    void SetName(string name);
+    void SetPrice(int price);
+    void SetQuantity(int quantity);
+
+    //accessors
+    string GetName();
+    int GetPrice();
+    int GetQuantity();
+    
+}
 
 #endif
