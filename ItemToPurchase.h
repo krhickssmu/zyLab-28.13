@@ -4,7 +4,6 @@
 #include <string>
 using namespace std;
 
-/* Type your code here */
 class ItemToPurchase{
     private:
 
@@ -29,9 +28,5 @@ class ItemToPurchase{
     int GetQuantity();
     
 }
-/* Type your code here */
-
-#endif
-
 
 #endif
