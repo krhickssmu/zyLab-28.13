@@ -4,6 +4,11 @@
 #include <string>
 using namespace std;
 
-/* Type your code here */
+//update from Ruth on VS code
+class ItemtoPurchase{
+
+
+
+};
 
 #endif
