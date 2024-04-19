@@ -28,8 +28,10 @@ void ItemToPurchase::SetQuantity(int itemQuantity){
     this->itemQuantity = itemQuantity;
 }
 
+
 ItemToPurchase::ItemToPurchase(){
   this->itemName = "none";
   this->itemPrice = 0;
   this->itemQuantity = 0;
 }
+
