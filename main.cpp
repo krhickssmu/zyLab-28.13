@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ItemToPurchase.cpp"
+#include "ItemToPurchase.h"
 using namespace std;
 
 //update from user1
