@@ -27,6 +27,6 @@ class ItemToPurchase{
     int GetPrice();
     int GetQuantity();
     
-}
+};
 
 #endif
